@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Data Science Skills
+category: Overview
 ---
 
 The problem with Data Science these days is that nobody seems to agree on what it really is. [Wikipedia](https://en.wikipedia.org/wiki/Data_science) generously calls it "interdisciplinary"; a quick search on LinkedIn reveals job scopes that vary from `Analyst` roles to `Deep Learning`.
